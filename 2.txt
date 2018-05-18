@@ -1,11 +1,1 @@
-mvnmvnmvnmvn 
-
-      Just betigjjadns 
-
-drogan
-<<<<<<< HEAD
-19382038012839
-=======
-
-77777
->>>>>>> ed3950e7ebb7e339e7112c5334f1d4aa5428806b
+111
